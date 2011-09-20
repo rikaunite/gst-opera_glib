@@ -18,6 +18,7 @@ Makefile
 
 # autofoo stuff here
 compile
+config.h
 configure
 depcomp
 aclocal.m4
